@@ -1,0 +1,7 @@
+{
+  "name": "adventofcode2024",
+  "scripts": {
+    "1": "node 1/main.js"
+  },
+  "author": "zenWai"
+}
