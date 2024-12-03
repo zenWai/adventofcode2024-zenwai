@@ -2,7 +2,8 @@
   "name": "adventofcode2024",
   "scripts": {
     "1": "node 1/main.js",
-    "2": "node 2/main.js"
+    "2": "node 2/main.js",
+    "3": "node 3/main.js"
   },
   "author": "zenWai"
 }
