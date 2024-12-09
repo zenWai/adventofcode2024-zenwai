@@ -6,7 +6,8 @@
     "3": "node 3/main.js",
     "4": "node 4/main.js",
     "5": "node 5/main.js",
-    "6": "node 6/main.js"
+    "6": "node 6/main.js",
+    "7": "node 7/main.js"
   },
   "author": "zenWai"
 }
